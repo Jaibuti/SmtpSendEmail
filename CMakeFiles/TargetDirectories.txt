@@ -1,0 +1,4 @@
+/root/code/SmtpSendEmail/CMakeFiles/rebuild_cache.dir
+/root/code/SmtpSendEmail/CMakeFiles/edit_cache.dir
+/root/code/SmtpSendEmail/CMakeFiles/Jxiepc.dir
+/root/code/SmtpSendEmail/CMakeFiles/test_send.dir

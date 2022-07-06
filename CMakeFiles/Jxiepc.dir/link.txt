@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -rdynamic -o0 -ggdb -std=c++11  -lsctp  -shared -Wl,-soname,libJxiepc.so -o lib/libJxiepc.so CMakeFiles/Jxiepc.dir/Jxiepc/smtp.cpp.o 

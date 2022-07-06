@@ -1,0 +1,1 @@
+/usr/bin/c++   -rdynamic -o0 -ggdb -std=c++11  -lsctp   CMakeFiles/test_send.dir/tests/test_smtp.cpp.o  -o bin/test_send -Wl,-rpath,/root/code/SmtpSendEmail/lib lib/libJxiepc.so 
